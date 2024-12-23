@@ -49,7 +49,7 @@ A modern and user-friendly Proxy Checker built with **Tkinter** and **customtkin
 
 4. Run the application:
    ```bash
-   python ModernProxyChecker.py
+   python main.py
    ```
 
 ## Usage
