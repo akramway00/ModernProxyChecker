@@ -10,6 +10,7 @@ A modern and user-friendly Proxy Checker built with **Tkinter** and **customtkin
 - **Loading Options:** Proxies can be loaded via text input or a file.
 - **Real-Time Results:** Displays results of validation (working or failed proxies) in real time.
 - **Export Working Proxies:** Saves valid proxies to a text file.
+- **Compiled Version:** Includes a pre-compiled `.exe` file for easy usage without requiring Python or dependencies.
 
 ## Screenshots
 
@@ -19,9 +20,16 @@ A modern and user-friendly Proxy Checker built with **Tkinter** and **customtkin
 
 **2. Real-Time Validation Process:**
 
-![Screenshot of real-time validation](screenProcess.PNG)
+![Screenshot of real-time validation](screenCheck.PNG)
 
 ## Installation
+
+### Using the Pre-Compiled `.exe` File
+
+1. Locate the `ModernProxyChecker.exe` file in the project directory.
+2. Run the `.exe` file to start the application immediately without installing Python or any dependencies.
+
+### Using Python
 
 1. Clone this repository:
    ```bash
@@ -39,12 +47,14 @@ A modern and user-friendly Proxy Checker built with **Tkinter** and **customtkin
 
 3. Ensure Python 3.7 or higher is installed on your system.
 
-## Usage
-
-1. Run the application:
+4. Run the application:
    ```bash
    python ModernProxyChecker.py
    ```
+
+## Usage
+
+1. Run the application using either the `.exe` file or Python script.
 
 2. Load proxies:
    - Paste proxies directly into the input box on the left panel.
