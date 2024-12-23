@@ -39,12 +39,8 @@ A modern and user-friendly Proxy Checker built with **Tkinter** and **customtkin
 
 2. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install customtkinter
    ```
-
-   **Required Packages:**
-   - `customtkinter`
-
 3. Ensure Python 3.7 or higher is installed on your system.
 
 4. Run the application:
