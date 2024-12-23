@@ -15,11 +15,11 @@ A modern and user-friendly Proxy Checker built with **Tkinter** and **customtkin
 
 **1. Proxies Loaded but Not Started:**
 
-![Screenshot of loaded proxies](INSERT_URL_HERE)
+![Screenshot of loaded proxies](screenStart.PNG)
 
 **2. Real-Time Validation Process:**
 
-![Screenshot of real-time validation](INSERT_URL_HERE)
+![Screenshot of real-time validation](screenProcess.PNG)
 
 ## Installation
 
