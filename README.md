@@ -87,7 +87,6 @@ For example:
 
 ## Future Improvements
 
-- Add support for HTTPS proxies.
 - Include options to test proxies for specific websites.
 - Enhance error handling for proxy format issues.
 
